@@ -20,3 +20,5 @@ else:
                 print '{} * '.format(i),
                 n = n / i
 print '{}'.format(1),
+
+#I just heard that format.(x) is better than %s, so I changed all %s to format.(x)
